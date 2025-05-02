@@ -1,17 +1,15 @@
-# Welcome to your Lovable project
+# Welcome to your ferhat dz project
 
 ## Project info
 
 **URL**:([(https://preview--blogger-template-craft-50.lovable.app/)) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
+The only requirement is having Node.js & npm installed - [install with nvm
 Follow these steps:
 
 ```sh
@@ -54,7 +52,7 @@ This project is built with:
 
 
 
-## Can I connect a custom domain to my Lovable project?
+# Can I connect..
 
 Yes, you can!
 
